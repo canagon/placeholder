@@ -1,0 +1,3 @@
+# canagon/placeholder
+
+Placeholder package.
