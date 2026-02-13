@@ -1,0 +1,14 @@
+{
+  "name": "canagon/placeholder",
+  "description": "Placeholder package.",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Canagon\\Placeholder\\": "src/"
+    }
+  }
+}
